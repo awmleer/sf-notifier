@@ -1,4 +1,5 @@
 ORDER_ID='925900124767'
-SEND_MAIL=''
-SEND_PASSWORD=''
-RECEIVE_MAIL=''
+SEND_MAIL='example@send.com'
+SEND_PASSWORD='123456'
+RECEIVE_MAIL='example@receive.com'
+SMTP_SERVER='smtp.example.com'
